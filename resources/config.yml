@@ -1,0 +1,20 @@
+first-block: 42
+second-block: 41
+third-block: 57
+
+hammer-item: [285]
+
+ores: [16, 56, 129, 14, 15, 21]
+
+recipes-modifier:
+  0:
+    recipe:
+      - [353]
+    # T'as le choix entre smelt, fortune ou speed
+    result: "smelt"
+recipes-socket:
+  0:
+    recipe:
+      - [264]
+      - [280]
+    result: 278

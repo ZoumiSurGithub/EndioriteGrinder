@@ -1,0 +1,8 @@
+name: Grinder
+version: PRIVATE
+api: 4.0.0
+main: Zoumi\Grinder\Grinder
+author: Zoumi
+
+depend:
+  - Customies
